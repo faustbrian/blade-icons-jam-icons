@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-jam-icons/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-jam-icons" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-jam-icons">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-jam-icons" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-jam-icons">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-jam-icons" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-jam-icons">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-jam-icons" alt="License" />
-    </a>
-</p>
 
 ## About Jam Icons
 
